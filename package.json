@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "pixelmatch": "^5.3.0",
+    "puppeteer": "^19.3.0"
+  }
+}
